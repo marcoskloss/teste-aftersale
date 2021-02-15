@@ -20,6 +20,11 @@ Porém, era necessário fazer essas implementações com React, e como ainda nã
 #### Teste o projeto localmente:
 
 ```bash
-
+    # Clonando o repositório
+    $ git clone https://github.com/marcoskloss/teste-aftersale.git
     
+    # Alternando para o diretório do projeto
+    $ cd teste-aftersale
+    
+    # Abra o arquivo index.html com o seu navegador
 ```
