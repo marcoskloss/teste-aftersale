@@ -1,0 +1,20 @@
+<svg width="375" height="680" viewBox="0 0 375 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="45" width="375" height="635" fill="#67666A"/>
+<rect x="125" width="125" height="45" fill="#67666A"/>
+<rect x="125" y="600" width="125" height="80" fill="#E3E7F5"/>
+<path d="M188 600V680" stroke="#222224" stroke-width="2"/>
+<circle cx="175" cy="646" r="3" fill="#1C2133"/>
+<circle cx="201" cy="646" r="3" fill="#1C2133"/>
+<rect x="59" y="87" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="59" y="183.452" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="59" y="279.903" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="236.895" y="87" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="236.895" y="183.452" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="236.895" y="279.903" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="236.895" y="376.355" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="236.895" y="472.806" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="59" y="376.355" width="80" height="75" fill="#1C2133" class="window"/>
+<rect x="59" y="472.806" width="80" height="75" fill="#1C2133" class="window"/>
+<circle cx="163" cy="22" r="10" fill="#1C2133" class="window"/>
+<circle cx="212" cy="22" r="10" fill="#1C2133" class="window"/>
+</svg>
